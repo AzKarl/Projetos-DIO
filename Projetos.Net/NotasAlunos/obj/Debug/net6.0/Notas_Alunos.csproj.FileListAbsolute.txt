@@ -1,0 +1,15 @@
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\bin\Debug\net6.0\Notas_Alunos.exe
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\bin\Debug\net6.0\Notas_Alunos.deps.json
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\bin\Debug\net6.0\Notas_Alunos.runtimeconfig.json
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\bin\Debug\net6.0\Notas_Alunos.dll
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\bin\Debug\net6.0\Notas_Alunos.pdb
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\obj\Debug\net6.0\Notas_Alunos.csproj.AssemblyReference.cache
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\obj\Debug\net6.0\Notas_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\obj\Debug\net6.0\Notas_Alunos.AssemblyInfoInputs.cache
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\obj\Debug\net6.0\Notas_Alunos.AssemblyInfo.cs
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\obj\Debug\net6.0\Notas_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\obj\Debug\net6.0\Notas_Alunos.dll
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\obj\Debug\net6.0\refint\Notas_Alunos.dll
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\obj\Debug\net6.0\Notas_Alunos.pdb
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\obj\Debug\net6.0\Notas_Alunos.genruntimeconfig.cache
+C:\Users\Computador_02\Meus Projetos Dio\DotNet_Dio\Notas_Alunos\obj\Debug\net6.0\ref\Notas_Alunos.dll
