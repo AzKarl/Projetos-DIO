@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = myApp
-build_property.ProjectDir = c:\Users\Computador_02\Meus Projetos\Projetos-DIO\Projetos.Net\PrimeirosPassos\
+build_property.RootNamespace = LocalizadorDePessoas.Net
+build_property.ProjectDir = C:\Users\Computador_02\Meus Projetos\Projetos-DIO\Projetos.Net\LocalizadorDePessoas\
